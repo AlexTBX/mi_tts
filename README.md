@@ -14,5 +14,3 @@ wait_time: 0
 miai_num: 0
 message: 你好天睿tera，我不是小爱。
 ```
-
-
